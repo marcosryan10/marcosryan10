@@ -1,153 +1,35 @@
-<div align="center">
+# Marcos Ryan Oliveira Porto
 
-# 👨‍💻 Marcos Ryan
+**Desenvolvedor full stack em formação · Estudante de ADS no IFNMG — Campus Almenara**
 
-### Estudante de Análise e Desenvolvimento de Sistemas
+Construo projetos web e mobile para colocar em prática interface, regras de negócio e banco de dados. Gosto de entender uma necessidade, organizar a solução e acompanhar o caminho do front-end ao back-end.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+em+forma%C3%A7%C3%A3o;Python+%7C+C+%7C+SQL+%7C+Web;Sempre+aprendendo+algo+novo" />
+## Projetos
 
-</div>
+| Projeto | O que desenvolvi | Tecnologias |
+| --- | --- | --- |
+| Chico Burguer | Cardápio digital, carrinho, pedidos de delivery e salão e painel da equipe | React, TypeScript, JavaScript, SQL e Cloudflare |
+| Barba & Hora | Aplicativo de agendamento, jornada do cliente, agenda administrativa e versão web de demonstração | React Native, Expo, TypeScript e Supabase/PostgreSQL |
+| Atlética Maccoloco | Landing page com identidade da atlética, navegação responsiva e diálogos informativos | HTML, CSS e JavaScript |
+| [Portal IFNMG — estudo de interface](https://github.com/marcosryan10/project-ifnmg-login) | Página de login para praticar estrutura de formulários e estilização | HTML e CSS |
 
----
+**Os três primeiros projetos são apresentados no meu portfólio; seus códigos estão em organização para publicação.** O Barba & Hora ainda depende da configuração do Supabase remoto e das credenciais de push. A demonstração web usa dados locais e não realiza reservas reais. A Maccoloco é uma proposta de landing page, com modalidades ainda sujeitas a confirmação.
 
-## 🚀 Sobre Mim
+## Tecnologias e aprendizado
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no **IFNMG**
+- **Web:** HTML, CSS, JavaScript, TypeScript e React.
+- **Mobile:** React Native e Expo.
+- **Dados e back-end:** SQL, PostgreSQL, Supabase, APIs e controle de acesso.
+- **Ferramentas:** Git e GitHub.
+- **Na graduação:** Python, C, estruturas de dados e banco de dados.
 
-💡 Apaixonado por tecnologia, programação e resolução de problemas
+## Formação
 
-📚 Atualmente estudando:
+Curso Análise e Desenvolvimento de Sistemas no Instituto Federal do Norte de Minas Gerais, campus Almenara. Estou desenvolvendo minha base técnica por meio da graduação e de projetos práticos.
 
-- Estrutura de Dados
-- Banco de Dados
-- Desenvolvimento Web
-- Programação em C
-- Python
-- SQL
+## Contato e trabalho
 
-🎯 Objetivo: atuar como Desenvolvedor de Software e construir soluções que gerem impacto real.
+- [LinkedIn](https://www.linkedin.com/in/marcosryanl/)
+- [Portfólio com processos e imagens dos projetos](https://portfolio-fullstack-marco.magicrowan8.chatgpt.site/) — atualmente com acesso privado; pode exigir autorização.
 
----
-
-## 🛠️ Tecnologias
-
-<div align="center">
-
-### Linguagens
-
-<img src="https://skillicons.dev/icons?i=python,c,html,css,mysql" />
-
-### Ferramentas
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-</div>
-
----
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🔥 Sequência de Contribuições
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 📂 Projetos em Destaque
-
-### 💊 Sistema para Drogaria
-
-Sistema desenvolvido em C para gerenciamento de clientes e produtos.
-
-**Tecnologias:**
-- C
-- Estruturas de Dados
-- Arquivos
-
----
-
-### 📚 Exercícios de Programação
-
-Coleção de exercícios e desafios desenvolvidos durante a graduação.
-
-**Tecnologias:**
-- Python
-- C
-- SQL
-
----
-
-### 🏪 MANTO BR
-
-Projeto de identidade visual e marketing para loja online de camisas esportivas.
-
-**Tecnologias:**
-- Design
-- Marketing Digital
-- Branding
-
----
-
-## 📈 Objetivos para 2026
-
-- [ ] Aprimorar conhecimentos em Python
-- [ ] Aprender JavaScript
-- [ ] Criar projetos Full Stack
-- [ ] Contribuir para projetos Open Source
-- [ ] Conseguir estágio na área de TI
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
-## 🌎 Conecte-se Comigo
-
-<div align="center">
-
-<a href="https://github.com/marcosryan10">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/marcos-ryan-oliveira-porto-1918912a0/?skipRedirect=true">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:marcosryanpessoal@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Frase que me inspira
-
-*"A tecnologia transforma ideias em soluções."*
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA043,100:58A6FF&height=120&section=footer"/>
+Busco oportunidades para aprender, contribuir e evoluir em desenvolvimento de software.
