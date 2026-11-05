@@ -25,7 +25,6 @@ Minha contribuição:
 - Implementação da extensão de verificação em **JavaScript**.
 - Automação de pagamentos em **Python**.
 
-O PeriFlow é apresentado como protótipo de hackathon. O código desse projeto não está nestes repositórios.
 
 ## Tecnologias e aprendizado
 
