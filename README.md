@@ -41,6 +41,4 @@ Curso Análise e Desenvolvimento de Sistemas no Instituto Federal do Norte de Mi
 ## Contato e trabalho
 
 - [LinkedIn](https://www.linkedin.com/in/marcosryanl/)
-- [Portfólio com processos e imagens dos projetos](https://portfolio-fullstack-marco.magicrowan8.chatgpt.site/) — atualmente com acesso privado; pode exigir autorização.
-
 Busco oportunidades para aprender, contribuir e evoluir em desenvolvimento de software.
